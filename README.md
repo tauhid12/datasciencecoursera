@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-sample repository for a course project
+## This is a markdown file
